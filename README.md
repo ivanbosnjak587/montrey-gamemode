@@ -1,4 +1,4 @@
-# montrey-script-standard
+# montrey-gamemode
 Ekskluzivni Monterey gamemode, sa najnovijim paketima...
  
 ⠀⌵⠀⠀﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌⠀⌵
